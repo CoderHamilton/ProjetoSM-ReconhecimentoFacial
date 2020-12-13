@@ -47,4 +47,6 @@ Depois de clonar é só abrir o anaconda, executar o spyder, abrir o projeto e e
 
 Hamilton Silva
 
-https://www.linkedin.com/in/hamilton-dev/
+<a href="https://www.linkedin.com/in/hamilton-dev/">
+  <img align="left" alt="Linkedin" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
